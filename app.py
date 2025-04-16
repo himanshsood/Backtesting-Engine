@@ -9,8 +9,6 @@ import os
 
 # --- Secrets ---
 
-# DEFAULT_INFURA = st.secrets["INFURA_URL"]
-# DEFAULT_PRIVATE_KEY = st.secrets["PRIVATE_KEY"]
 
 DEFAULT_INFURA = "https://mainnet.infura.io/v3/1fc8a67b26374e2da45756c839231709"
 DEFAULT_PRIVATE_KEY = "0d38044d79de711aff508a5c2ec03edd640ce9d89e17b6029e60f1cbfb519023"
